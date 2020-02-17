@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="es">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -67,6 +67,7 @@
           <div class="bg-white">
               @include('layout.header')
 
+              <!--Area Content-->
               @yield('content')
 
               <!--Footer Widget Area Start-->
